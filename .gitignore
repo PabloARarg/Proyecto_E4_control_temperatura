@@ -1,0 +1,6 @@
+Debug/
+datos_recolectados/
+Project Backups/
+.metadata/
+*.launch
+*.ld
