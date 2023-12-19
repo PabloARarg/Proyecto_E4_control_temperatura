@@ -1,4 +1,4 @@
-#PROYECTO DE ISTD
+# PROYECTO DE ISTD
 *implementacion en la blue-pill de adc con dma, pwm y uart
    - uso del adc(12 bits) para obrtener valores usados para controlar el pwm y enviar el valor directo a pc por el puerto uart a 115200 baud
    - uart -> pin A9(tx), A10(rx)
@@ -6,11 +6,11 @@
    - pwm -> pin A6
    - uso de una pantalla lcd 2x16 para mostrar el set point y la temperatura actual 
 
-##Pin Out   
+### Pin Out   
 ![imagen de pin_out](circuito/pin_out.png)
 
-##Circuito
+### Circuito
 ![imagen del circuito](circuito/circuito.png)
 
-##Implementacion  
+### Implementacion  
 ![imagen de la implementacion](circuito/implementacion.png)
